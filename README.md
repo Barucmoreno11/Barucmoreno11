@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barucmoreno11&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
 <h2 align="center">👋 Hola, soy Baruc · Hi, I'm Baruc</h2>
 
 <p align="center">
