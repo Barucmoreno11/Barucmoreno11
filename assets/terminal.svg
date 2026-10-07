@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 250" width="380" height="250" role="img" aria-label="baruc.py">
+  <title>baruc.py</title>
+  <style>
+    .c { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 0%,100% { opacity:1 } 50% { opacity:0 } }
+  </style>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16263a"/><stop offset="1" stop-color="#112033"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="376" height="246" rx="12" fill="#0b1623" stroke="#27496d" stroke-width="1.5"/>
+  <path d="M2 14a12 12 0 0 1 12-12h352a12 12 0 0 1 12 12v32H2z" fill="url(#bar)"/>
+  <circle cx="24" cy="24" r="6" fill="#ff5f56"/><circle cx="44" cy="24" r="6" fill="#ffbd2e"/><circle cx="64" cy="24" r="6" fill="#27c93f"/>
+  <text x="190" y="28" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#7a96b3">baruc.py</text>
+  <line x1="2" y1="46" x2="378" y2="46" stroke="#27496d" stroke-width="1"/>
+    <text x="22" y="78" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#cdd6f4"><tspan fill="#c792ea">class</tspan> <tspan fill="#82aaff">Baruc</tspan><tspan fill="#89ddff">:</tspan></text>
+  <text x="22" y="100" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#cdd6f4">    role  <tspan fill="#89ddff">=</tspan> <tspan fill="#c3e88d">"Full-Stack Developer"</tspan></text>
+  <text x="22" y="122" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#cdd6f4">    stack <tspan fill="#89ddff">=</tspan> <tspan fill="#89ddff">[</tspan><tspan fill="#c3e88d">"Python"</tspan>, <tspan fill="#c3e88d">"FastAPI"</tspan>, <tspan fill="#c3e88d">"Django"</tspan>,</text>
+  <text x="22" y="144" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#cdd6f4">             <tspan fill="#c3e88d">"SQL"</tspan>, <tspan fill="#c3e88d">"Docker"</tspan>, <tspan fill="#c3e88d">"Cloud"</tspan><tspan fill="#89ddff">]</tspan></text>
+  <text x="22" y="188" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#cdd6f4">    <tspan fill="#c792ea">def</tspan> <tspan fill="#82aaff">build</tspan><tspan fill="#89ddff">(</tspan><tspan fill="#f07178">self</tspan><tspan fill="#89ddff">):</tspan></text>
+  <text x="22" y="210" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#cdd6f4">        <tspan fill="#c792ea">return</tspan> <tspan fill="#c3e88d">"reliable software"</tspan></text>
+  <rect class="c" x="22" y="228" width="8" height="15" fill="#8fd3ff"/>
+</svg>
