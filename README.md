@@ -17,7 +17,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/Barucmoreno11/Barucmoreno11/main/assets/terminal.svg" alt="baruc.py" />
+<img align="right" width="352" src="https://raw.githubusercontent.com/Barucmoreno11/Barucmoreno11/main/assets/dev-pc.svg" alt="Pixel art developer at the computer" />
 
 - 🔭 **Full-Stack Development** — APIs y aplicaciones web con **Python (FastAPI / Django)**.
 - 🗄️ **Datos e infraestructura** — trabajo con **SQL**, contenedores con **Docker** y servicios en la **nube**.
@@ -80,6 +80,16 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<h2 align="center">🐍 My Stack, as Code</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Barucmoreno11/Barucmoreno11/main/assets/terminal.svg" alt="baruc.py" width="380" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Barucmoreno11/Barucmoreno11/main/assets/pixel-scene.svg" alt="Pixel art night landscape" width="100%" />
 </p>
 
 <h2 align="center">📈 Contributions</h2>
